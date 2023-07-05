@@ -6,5 +6,5 @@ import lombok.AllArgsConstructor;
 public enum WayToGetInformation {
     NEWSPAPER, 
     ONLINE_NEWSPAPER,
-    NEWS_APP;
+    NEWS_APP
 }
